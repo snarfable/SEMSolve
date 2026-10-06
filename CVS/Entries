@@ -1,0 +1,65 @@
+/AUTHORS/1.1.1.1/Sun May  3 11:15:24 2009//
+/ChangeLog/1.1.1.1/Sun May  3 11:15:24 2009//
+/Doxyfile/1.1.1.1/Sun May  3 11:15:24 2009//
+/Makefile.am/1.1.1.1/Sun May  3 11:15:24 2009//
+/Makefile.in/1.2/Sun May  3 11:51:57 2009//
+/NEWS/1.1.1.1/Sun May  3 11:15:24 2009//
+/README/1.1.1.1/Sun May  3 11:15:24 2009//
+/aclocal.m4/1.1.1.1/Sun May  3 11:15:24 2009//
+/autoscan.log/1.1.1.1/Sun May  3 11:15:24 2009//
+/basis.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/basis.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/combinadic.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/combinadic.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/config.h.in/1.1.1.1/Sun May  3 11:15:24 2009//
+/configure/1.1.1.1/Sun May  3 11:15:24 2009//
+/configure.in/1.1.1.1/Sun May  3 11:15:24 2009//
+/configure.scan/1.1.1.1/Sun May  3 11:15:24 2009//
+/convert_mesh.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/dlinalg.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/dlinalg_asm.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/dlinalg_asm.s/1.1.1.1/Sun May  3 11:15:24 2009//
+/dlinalg_eigen.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/dlinalg_lnsys.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/dlinalg_util.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/geometry.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/geometry.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/integrals.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/integrals.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/lapack.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/lexing.c/1.1.1.1/Sun May  3 11:15:24 2009//
+/lexing.l/1.1.1.1/Sun May  3 11:15:24 2009//
+/lost_code.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/ltgmap.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/ltgmap.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/mesh.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/mesh.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/mesh2.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/mesh2.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/mk_mesh.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/mk_rand_nodes.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/mk_rand_sphere.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/mk_sphere_hull.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/parse_symb.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/parsing.c/1.1.1.1/Sun May  3 11:15:24 2009//
+/parsing.y/1.1.1.1/Sun May  3 11:15:24 2009//
+/potential.cpp/1.2/Sun May  3 11:51:57 2009//
+/potential.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/semconfig.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/semconfig.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/semerror.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/semerror.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/semsolve.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/slinalg.h/1.1.1.1/Sun May  3 11:15:24 2009//
+/slinalg_eigen.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/slinalg_lnsys.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/slinalg_util.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/smooth_dist.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/smooth_mesh.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/testing.cpp/1.1.1.1/Sun May  3 11:15:24 2009//
+/y.tab.h/1.1.1.1/Sun May  3 11:15:24 2009//
+D/.deps////
+D/autom4te.cache////
+D/data////
+D/html////
+D/latex////
